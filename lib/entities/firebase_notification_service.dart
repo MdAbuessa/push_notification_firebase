@@ -22,6 +22,7 @@ class FirebaseNotificationService {
       print(message.notification?.title);
       print(message.notification?.body);
       print(message.data);
+      //TODO :fire a local notification while app is in forgraund
     });
 
     //background message
