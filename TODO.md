@@ -1,0 +1,3 @@
+- [ ] Add GlobalKey<NavigatorState> to main.dart and assign to MaterialApp
+- [ ] Update FirebaseNotificationService to handle onMessageOpenedApp and navigate to MatchScreen on tap
+- [ ] Test the app to ensure navigation works without error
